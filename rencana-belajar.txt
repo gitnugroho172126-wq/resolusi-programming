@@ -1,0 +1,4 @@
+- belajar fundamental git
+- belajar .net
+- belajar nodejs
+- belajar rust
