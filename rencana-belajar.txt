@@ -1,5 +1,10 @@
 - belajar fundamental git
+  * git dasar
+  * git lajutan
 - belajar .net
+  * c#
+  * F#
 - belajar nodejs
 - belajar rust
 - belajar bikin game dengan bahasa pemrograman di atas
+- belajar dengan giat
