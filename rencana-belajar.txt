@@ -2,4 +2,4 @@
 - belajar .net
 - belajar nodejs
 - belajar rust
-- belajar makan
+- belajar bikin game dengan bahasa pemrograman di atas
