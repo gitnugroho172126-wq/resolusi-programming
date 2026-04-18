@@ -6,3 +6,4 @@
   * C++
 - belajar nodejs
 - belajar bikin game dengan bahasa pemrograman di atas
+- belajar dengan giat
